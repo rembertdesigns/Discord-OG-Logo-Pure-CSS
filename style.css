@@ -306,3 +306,24 @@ body{
     background: #7289da;
     transform: rotate(-10deg);
 }
+.footer {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    background-color: #18191c;
+    text-align: center;
+  }
+  .footer p {
+  text-decoration: none;
+  color: #fff;
+  }
+  .footer a {
+    text-decoration: none;
+    color: #7289da;
+  }
+  .footer a:hover {
+    text-decoration: underline;
+    color: #19b2f1;
+  }
